@@ -22,8 +22,8 @@ contador = 0
 while contador <= 1024:
     print contador
     conecta
-    recebe_resposta
-    if recebe_resposta = 'error':
-        continue
+        recebe_resposta
+        if recebe_resposta = 'error':
+            continue
 
-    contador = contador + 1
+        contador = contador + 1
